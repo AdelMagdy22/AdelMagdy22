@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdelMagdy22
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning in Faculty of Computer Science and Ai in Cairo University
+- 🌱 I’m currently learning in Faculty of Computer Science and AI in Cairo University
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
